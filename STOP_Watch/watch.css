@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(71, 71, 231);
+}
+
+.container{
+    background-color: white;
+    height: 45vh;
+    width: 70vh;
+    border-radius: 50px 5px;
+    margin-left: 33%;
+    margin-top: 12%;
+    box-shadow: 20px pink ;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 20px;
+    margin-bottom: -4px;
+    font-family:cursive;
+    font-weight: 600;
+    color: rgb(10, 222, 255);
+}
+
+
+.num{
+    display:flex;
+}
+
+
+.one{
+    padding-left: 10vh;
+}
+
+
+h2{
+    font-family: cursive;
+    margin-inline: 3px;
+    font-size: 50px; 
+      
+}
+
+
+button{
+
+    padding: 15px;
+    border: none;
+    margin: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    font-family: cursive;
+    cursor: pointer;
+    
+}
+
+.start{
+    background-color: green;
+    margin-left: 110px;
+}
+
+.stop{
+    background-color: red;
+}
+
+.reset{
+    background-color: rgb(99, 84, 234);
+}
